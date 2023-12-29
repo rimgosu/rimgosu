@@ -1,4 +1,3 @@
-## 저장소 바로가기
 ### fly ai
 - [sk-fly-ai-record](https://github.com/rimgosu/sk-fly-ai-record)
 - [Flutter Study](https://github.com/rimgosu/FlutterStudy)
