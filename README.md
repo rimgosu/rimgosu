@@ -5,3 +5,5 @@
 | [FastAPI Study](https://github.com/rimgosu/FastApiStudy) | [AutoAttendance](https://github.com/rimgosu/AutoAttendance) ✅ |  | [html-css-javascript](https://github.com/rimgosu/html-css-javascript) | [Obsidian-Vault](https://github.com/rimgosu/Obsidian-Vault) ✏️ |
 |  | [AppOrganizer](https://github.com/rimgosu/AppOrganizer) ✅ |  | [java/web/sql](https://github.com/rimgosu/Lectures) | [velog](https://github.com/rimgosu/velog) 📒 |
 |  |  |  | [OpenCV](https://github.com/rimgosu/OpenCV) |  |
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rimgosu&count_private=true&show_icons=true&theme=solarized-light)
