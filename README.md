@@ -6,5 +6,5 @@
 |  | [AppOrganizer](https://github.com/rimgosu/AppOrganizer) ✅ |  | [java/web/sql](https://github.com/rimgosu/Lectures) | [velog](https://github.com/rimgosu/velog) 📒 |
 |  |  |  | [OpenCV](https://github.com/rimgosu/OpenCV) |  |
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rimgosu&count_private=true&show_icons=true&theme=solarized-light)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rimgosu&count_private=true&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rimgosu&layout=compact&hide=jupyter%20notebook,css,scss,less)](https://github.com/anuraghazra/github-readme-stats)
