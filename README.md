@@ -8,4 +8,3 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rimgosu&count_private=true&show_icons=true&theme=solarized-light)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rimgosu)](https://github.com/anuraghazra/github-readme-stats)
