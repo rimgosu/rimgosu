@@ -1,7 +1,7 @@
 ## 🚀 Welcome!
 **Backend Developer**
-- **인공지능사관학교**: 23.06 ~ 23.12 ✔️
-- **skt fly ai challengers**: 23.12 ~ 24.02 ✔️
+- ✔️ 인공지능사관학교: 23.06 ~ 23.12 
+- ✔️ skt fly ai challengers: 23.12 ~ 24.02 
 
 
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"><img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">  
