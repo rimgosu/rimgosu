@@ -6,6 +6,8 @@
   <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"><img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">  
 </div>
 
+---
+
 | SKT Fly AI 🦋 | 개인프로젝트 🧑 | 팀프로젝트 👨‍👦‍👦 | 인공지능사관학교 🏫 | 개인공부 💻 |
 | ---- | ---- | ---- | ---- | ---- |
 | [sk-fly-ai-record](https://github.com/rimgosu/sk-fly-ai-record) ✔️ | [CBT Hub](https://github.com/rimgosu/CbtHub) ⏳ | [Greedot](https://github.com/GreeDot/greedot) 🏆| [Spring Study](https://github.com/rimgosu/SpringStudy) | [JPA Study](https://github.com/rimgosu/JpaStudy) |
