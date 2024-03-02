@@ -2,7 +2,9 @@
 - 인공지능사관학교: 23.06 ~ 23.12
 - skt fly ai: 23.12 ~ 24.02
 
-<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"><img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
+<div align="center">
+  <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"><img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">  
+</div>
 
 | SKT Fly AI 🦋 | 개인프로젝트 🧑 | 팀프로젝트 👨‍👦‍👦 | 인공지능사관학교 🏫 | 개인공부 💻 |
 | ---- | ---- | ---- | ---- | ---- |
