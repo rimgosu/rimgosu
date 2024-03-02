@@ -1,12 +1,13 @@
+## Welcome!
 **Backend Developer**
 - 인공지능사관학교: 23.06 ~ 23.12
 - skt fly ai: 23.12 ~ 24.02
 
-<div align="center">
-  <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"><img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">  
-</div>
 
----
+<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"><img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">  
+
+
+## My Record
 
 | SKT Fly AI 🦋 | 개인프로젝트 🧑 | 팀프로젝트 👨‍👦‍👦 | 인공지능사관학교 🏫 | 개인공부 💻 |
 | ---- | ---- | ---- | ---- | ---- |
@@ -15,6 +16,8 @@
 | [FastAPI Study](https://github.com/rimgosu/FastApiStudy) | [AutoAttendance](https://github.com/rimgosu/AutoAttendance) ✔️ | [FriendFit](https://github.com/rimgosu/FriendFit) ✔️  | [html-css-javascript](https://github.com/rimgosu/html-css-javascript) | [Obsidian-Vault](https://github.com/rimgosu/Obsidian-Vault) ✏️ |
 |  | [AppOrganizer](https://github.com/rimgosu/AppOrganizer) ✔️ |  | [java/web/sql](https://github.com/rimgosu/Lectures) | [velog](https://github.com/rimgosu/velog) 📒 |
 |  |  |  | [OpenCV](https://github.com/rimgosu/OpenCV) |  |
+
+## My Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rimgosu&count_private=true&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rimgosu&layout=compact&hide=jupyter%20notebook,css,scss,less)](https://github.com/anuraghazra/github-readme-stats)
