@@ -7,7 +7,7 @@
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"><img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">  
 
 
-## 📋 My Record
+## 📋 Record
 
 | SKT Fly AI 🦋 | 개인프로젝트 🧑 | 팀프로젝트 👨‍👦‍👦 | 인공지능사관학교 🏫 | 개인공부 💻 |
 | ---- | ---- | ---- | ---- | ---- |
@@ -17,7 +17,7 @@
 |  | ✔️ [AppOrganizer](https://github.com/rimgosu/AppOrganizer)  |  | [java/web/sql](https://github.com/rimgosu/Lectures) | 📒 [velog](https://github.com/rimgosu/velog)  |
 |  |  |  | [OpenCV](https://github.com/rimgosu/OpenCV) |  |
 
-## 📈 My Stats
+## 📈 Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rimgosu&count_private=true&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rimgosu&layout=compact&hide=jupyter%20notebook,css,scss,less)](https://github.com/anuraghazra/github-readme-stats)
