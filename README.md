@@ -24,10 +24,10 @@
 ## 📈 Stats
 ![리눅스마스터1급](https://img.shields.io/badge/리눅스마스터1급-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![정보처리기사](https://img.shields.io/badge/정보처리기사-5B0BB5?style=for-the-badge&logo=semanticscholar&logoColor=white)
-![컴퓨터활용능력 2급](https://img.shields.io/badge/컴퓨터활용능력2급-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![빅데이터분석기사](https://img.shields.io/badge/빅데이터분석기사-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
-![데이터분석 전문가(ADsP)](https://img.shields.io/badge/ADsP-D0271D?style=for-the-badge&logo=adp&logoColor=white)
+![컴퓨터활용능력 2급](https://img.shields.io/badge/컴퓨터활용능력2급-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![AWS Cloud Practitioner](https://img.shields.io/badge/AWS%20Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![데이터분석 전문가(ADsP)](https://img.shields.io/badge/ADsP-D0271D?style=for-the-badge&logo=adp&logoColor=white)
 ![Azure AI 900](https://img.shields.io/badge/Azure%20AI%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rimgosu&count_private=true&show_icons=true)
