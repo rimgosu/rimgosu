@@ -22,7 +22,16 @@
 |  |  |  | [OpenCV](https://github.com/rimgosu/OpenCV) |  |
 
 ## 📈 Stats
-- 🪪 리눅스마스터 1급
+- 🖥️ 리눅스마스터 1급
+
+<details>
+    <summary>더 보기</summary>
 - 🪪 정보처리기사
+- ☁️ AWS Cloud Practitioner
+- 📊 빅데이터분석기사
+- 📈 데이터분석 전문가(ADsP)
+- 🖱️ 컴퓨터활용능력 2급
+- 💭 Azure AI Fundamentals
+</details>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rimgosu&count_private=true&show_icons=true)
