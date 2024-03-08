@@ -22,6 +22,7 @@
 |  |  |  | [OpenCV](https://github.com/rimgosu/OpenCV) |  |
 
 ## 📈 Stats
+- 🪪 리눅스마스터 1급
+- 🪪 정보처리기사
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rimgosu&count_private=true&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rimgosu&layout=compact&hide=jupyter%20notebook,css,scss,less)](https://github.com/anuraghazra/github-readme-stats)
