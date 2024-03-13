@@ -10,7 +10,7 @@
 
 
 ## 📋 Record
-- 🏆 [SKT Fly AI Challengers Team Project 1st](https://www.trendw.kr/news/articleView.html?idxno=10603)
+- 🏆 [SKT Fly AI Challengers Team Project - Greedot 1st](https://www.trendw.kr/news/articleView.html?idxno=10603)
 - 🏆 [Battlegrounds Lobby Legends - Magic of Azeroth 1st](https://esports.gg/news/hearthstone/rimgosu-wins-battlegrounds-lobby-legends/)
 
 | SKT Fly AI 🦋 | 개인프로젝트 🧑 | 팀프로젝트 👨‍👦‍👦 | 인공지능사관학교 🏫 | 개인공부 💻 |
