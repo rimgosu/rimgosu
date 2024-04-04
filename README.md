@@ -1,7 +1,6 @@
-![slice](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&text=Rimgosu&)
+![slice](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&text=JiHyup&)
 
-## 🚀 Welcome!
-**Backend Developer**
+## 🚀 Backend Developer
 - ⏳ Opstech Backend Developer: 24.03 ~
 - ✔️ skt fly ai challengers: 23.12 ~ 24.02 
 - ✔️ 인공지능사관학교: 23.06 ~ 23.12
