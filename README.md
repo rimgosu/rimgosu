@@ -1,4 +1,4 @@
-![slice](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&text=JiHyup&)
+![slice](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&text=RIMGOSU)
 
 ## 🚀 Backend Developer
 - ⏳ Opstech Backend Developer: 24.03 ~
