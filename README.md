@@ -7,7 +7,7 @@
 - ✔️ 한양대학교 기계공학과: 12.03 ~ 19.02
 
 
-<img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"><img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"><img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">  
+<img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"><img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">  
 
 
 ## 📋 Record
@@ -18,7 +18,7 @@
 | ---- | ---- | ---- | ---- | ---- |
 | ✔️ [sk-fly-ai-record](https://github.com/rimgosu/sk-fly-ai-record)  | ⏳ [CBT Hub](https://github.com/orgs/cbt-hub/repositories)  | 🏆 [Greedot](https://github.com/GreeDot/greedot) | [Spring Study](https://github.com/rimgosu/SpringStudy) | [JPA Study](https://github.com/rimgosu/JpaStudy) |
 | [Flutter Study](https://github.com/rimgosu/FlutterStudy) | ✔️ [AutoEditor](https://github.com/rimgosu/autoeditor)  | ✔️ [SimKoong](https://github.com/rimgosu/SimKoong)  | [DeepLearning](https://github.com/rimgosu/DeepLearning) | [Algorithm](https://github.com/rimgosu/Algorithm) |
-| [FastAPI Study](https://github.com/rimgosu/FastApiStudy) | ✔️ [AutoAttendance](https://github.com/rimgosu/AutoAttendance)  | ✔️ [FriendFit](https://github.com/rimgosu/FriendFit)   | [html-css-javascript](https://github.com/rimgosu/html-css-javascript) | [Obsidian-Vault](https://github.com/rimgosu/Obsidian-Vault)  |
+| [FastAPI Study](https://github.com/rimgosu/FastApiStudy) | ✔️ [AutoAttendance](https://github.com/rimgosu/AutoAttendance)  | ✔️ [FriendFit](https://github.com/rimgosu/FriendFit)   | [html-css-javascript](https://github.com/rimgosu/html-css-javascript) |   |
 |  | ✔️ [AppOrganizer](https://github.com/rimgosu/AppOrganizer)  |  | [java/web/sql](https://github.com/rimgosu/Lectures) | [velog](https://github.com/rimgosu/velog)  |
 |  |  |  | [OpenCV](https://github.com/rimgosu/OpenCV) |  |
 
