@@ -17,11 +17,11 @@
 
 | SKT Fly AI 🦋 | 개인프로젝트 🧑 | 팀프로젝트 👨‍👦‍👦 | 인공지능사관학교 🏫 | 개인공부 💻 |
 | ---- | ---- | ---- | ---- | ---- |
-| ✔️ [sk-fly-ai-record](https://github.com/rimgosu/sk-fly-ai-record)  | ⏳ [CBT Hub](https://github.com/orgs/cbt-hub/repositories)  | 🏆 [Greedot](https://github.com/GreeDot/greedot) | [Spring Study](https://github.com/rimgosu/SpringStudy) | [JPA Study](https://github.com/rimgosu/JpaStudy) |
-| [Flutter Study](https://github.com/rimgosu/FlutterStudy) | ✔️ [AutoEditor](https://github.com/rimgosu/autoeditor)  | ✔️ [SimKoong](https://github.com/rimgosu/SimKoong)  | [DeepLearning](https://github.com/rimgosu/DeepLearning) | [Algorithm](https://github.com/rimgosu/Algorithm) |
-| [FastAPI Study](https://github.com/rimgosu/FastApiStudy) | ✔️ [AutoAttendance](https://github.com/rimgosu/AutoAttendance)  | ✔️ [FriendFit](https://github.com/rimgosu/FriendFit)   | [html-css-javascript](https://github.com/rimgosu/html-css-javascript) | [velog](https://github.com/rimgosu/velog)  |
-|  | ✔️ [AppOrganizer](https://github.com/rimgosu/AppOrganizer)  |  | [java/web/sql](https://github.com/rimgosu/Lectures) |   |
-|  |  |  | [OpenCV](https://github.com/rimgosu/OpenCV) |  |
+| ✔️ [sk-fly-ai-record](https://github.com/rimgosu/sk-fly-ai-record)  | ⏳ [CBT Hub](https://github.com/orgs/cbt-hub/repositories)  | 🏆 [Greedot](https://github.com/GreeDot/greedot) | ✔️ [Spring Study](https://github.com/rimgosu/SpringStudy) | ✔️ [JPA Study](https://github.com/rimgosu/JpaStudy) |
+| ✔️ [Flutter Study](https://github.com/rimgosu/FlutterStudy) | ✔️ [AutoEditor](https://github.com/rimgosu/autoeditor)  | ✔️ [SimKoong](https://github.com/rimgosu/SimKoong)  | ✔️ [DeepLearning](https://github.com/rimgosu/DeepLearning) | ⏳ [Algorithm](https://github.com/rimgosu/Algorithm) |
+| ✔️ [FastAPI Study](https://github.com/rimgosu/FastApiStudy) | ✔️ [AutoAttendance](https://github.com/rimgosu/AutoAttendance)  | ✔️ [FriendFit](https://github.com/rimgosu/FriendFit)   | ✔️ [html-css-javascript](https://github.com/rimgosu/html-css-javascript) | ⏳ [velog](https://github.com/rimgosu/velog)  |
+|  | ✔️ [AppOrganizer](https://github.com/rimgosu/AppOrganizer)  |  | ✔️ [java/web/sql](https://github.com/rimgosu/Lectures) | ⏳ [js-deep-dive-study](https://github.com/rimgosu/js-deep-dive-study)  |
+|  |  |  | ✔️ [OpenCV](https://github.com/rimgosu/OpenCV) |  |
 
 ## 📈 Stats
 - 💻 [백엔드 개발자 변지협입니다.](https://eastern-wedelia-243.notion.site/89ec005c7f2442609a0591f28625db7c)
