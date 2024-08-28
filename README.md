@@ -5,7 +5,7 @@
 - 💻 백엔드 개발자 변지협입니다. ([Notion Portfolio](https://eastern-wedelia-243.notion.site/89ec005c7f2442609a0591f28625db7c), [Velog](https://velog.io/@rimgosu/posts)) 
 - ✔️ [옵스테크](https://opstech.kr/) 백엔드 개발: 24.03 ~ 24.08
 - ✔️ skt fly ai challengers: 23.12 ~ 24.02 
-- ✔️ 인공지능사관학교: 23.06 ~ 23.12
+- ✔️ 인공지능사관학교 Spring반: 23.06 ~ 23.12
 - ✔️ 한양대학교 자원환경공학과&기계공학과: 12.03 ~ 19.02
 
 <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"><img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
