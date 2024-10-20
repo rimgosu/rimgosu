@@ -19,7 +19,6 @@
 - 🏆 [SKT Fly AI Challengers 팀프로젝트 그리닷 1st](https://www.trendw.kr/news/articleView.html?idxno=10603) - [그리닷 Github](https://github.com/GreeDot/greedot)
 - 🏆 [하스스톤 전장 로비 레전드 Magic of Azeroth 1st](https://esports.gg/news/hearthstone/rimgosu-wins-battlegrounds-lobby-legends/)
 - 🖥️ [하스스톤 전장 자동 편집 프로그램 Github](https://github.com/rimgosu/autoeditor) - [Training Data](https://github.com/rimgosu/auto-editor-train-backup)
-- 🎎 [소개팅 서비스 심쿵 Github](https://github.com/rimgosu/SimKoong)
 
 ## 📈 Stats
 
