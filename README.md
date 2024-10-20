@@ -11,7 +11,7 @@
 - ✔️ 인공지능사관학교 (Spring): 23.06 ~ 23.12
 - ✔️ 한양대학교 자원환경공학과&기계공학과: 12.03 ~ 19.02
 
-<img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"><img src="https://img.shields.io/badge/prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white">
+<img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
 
 
 ## 📋 Record
