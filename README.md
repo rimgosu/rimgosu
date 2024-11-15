@@ -1,5 +1,3 @@
-![slice](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&text=RIMGOSU)
-
 ## 🚀 Backend Developer
 
 **백엔드 개발자** 변지협입니다. 
