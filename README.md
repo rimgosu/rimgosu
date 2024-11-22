@@ -1,7 +1,5 @@
 ## Backend Developer
 
-([Notion Portfolio](https://eastern-wedelia-243.notion.site/89ec005c7f2442609a0591f28625db7c), [Velog](https://velog.io/@rimgosu/posts)) 
-
 - ⌛ [스페이스맵](https://www.spacemap42.com/) 백엔드 개발: 24.09 ~
 - ✔️ [옵스테크](https://opstech.kr/) 백엔드 개발: 24.03 ~ 24.08
 - ✔️ SKT Fly AI Challengers: 23.12 ~ 24.02 
