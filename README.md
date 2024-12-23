@@ -1,10 +1,10 @@
 ## Backend Developer
 
-- ⌛ [스페이스맵](https://www.spacemap42.com/) 백엔드 개발: 24.09 ~
-- ✔️ [옵스테크](https://opstech.kr/) 백엔드 개발: 24.03 ~ 24.08
-- ✔️ SKT Fly AI Challengers: 23.12 ~ 24.02 
-- ✔️ 인공지능사관학교 (Spring): 23.06 ~ 23.12
-- ✔️ 한양대학교 자원환경공학과&기계공학과: 12.03 ~ 19.02
+- [스페이스맵](https://www.spacemap42.com/) 백엔드 개발: 24.09 ~
+- [옵스테크](https://opstech.kr/) 백엔드 개발: 24.03 ~ 24.08
+- SKT Fly AI Challengers: 23.12 ~ 24.02 
+- 인공지능사관학교 (Spring): 23.06 ~ 23.12
+- 한양대학교 자원환경공학과&기계공학과: 12.03 ~ 19.02
 
 ## Record
 
