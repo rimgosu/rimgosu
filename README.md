@@ -1,1 +1,1 @@
-- HS Battlegrounds Lobby Legends [1st Player](https://esports.gg/news/hearthstone/rimgosu-wins-battlegrounds-lobby-legends/) -> Backend Developer
+- HS Battlegrounds World [#1st Player](https://esports.gg/news/hearthstone/rimgosu-wins-battlegrounds-lobby-legends/) -> Backend Developer
